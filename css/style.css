@@ -1448,4 +1448,9 @@ h3.agileits-title {
     font-size: 2em;
 } 
 }
+
+.project_img{
+    width: 350px;
+    height: 200px;
+}
 /*-- //responsive-design --*/
