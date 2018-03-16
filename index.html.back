@@ -144,6 +144,80 @@
 		</div>
 	</div>
 	<!-- //welcome -->
+	<!-- team -->
+	<!--<div id="team" class="team jarallax">-->
+		<!--<div class="container"> -->
+			<!--<h3 class="agileits-title w3title1">我们的团队</h3>-->
+			<!--<div class="team-agileinfo">-->
+				<!--<div class="col-md-3 col-xs-6 agile_team_grid">-->
+					<!--<div class="view w3-agile-view">-->
+						<!--<img src="images/t1.jpg" alt=" " class="img-responsive" />-->
+						<!--<div class="w3lmask">-->
+							<!--<h5>Stellawil</h5>-->
+							<!--<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit.</p> -->
+							<!--<div class="agileits_social_icons">-->
+								<!--<ul class="agileits_social_list">-->
+									<!--<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>-->
+									<!--<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>-->
+									<!--<li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li> -->
+								<!--</ul>-->
+							<!--</div> -->
+						<!--</div>-->
+					<!--</div>-->
+				<!--</div>-->
+				<!--<div class="col-md-3 col-xs-6 agile_team_grid">-->
+					<!--<div class="view w3-agile-view">-->
+						<!--<img src="images/t2.jpg" alt=" " class="img-responsive" />-->
+						<!--<div class="w3lmask">-->
+							<!--<h5>Mark Sophia</h5>-->
+							<!--<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit.</p>-->
+							<!--<div class="agileits_social_icons">-->
+								<!--<ul class="agileits_social_list">-->
+									<!--<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>-->
+									<!--<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>-->
+									<!--<li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li> -->
+								<!--</ul>-->
+							<!--</div> -->
+						<!--</div>-->
+					<!--</div>-->
+				<!--</div>-->
+				<!--<div class="col-md-3 col-xs-6 agile_team_grid">-->
+					<!--<div class="view w3-agile-view">-->
+						<!--<img src="images/t3.jpg" alt=" " class="img-responsive" />-->
+						<!--<div class="w3lmask">-->
+							<!--<h5>Fedrick </h5>-->
+							<!--<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit.</p>-->
+							<!--<div class="agileits_social_icons">-->
+								<!--<ul class="agileits_social_list">-->
+									<!--<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>-->
+									<!--<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>-->
+									<!--<li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li> -->
+								<!--</ul>-->
+							<!--</div> -->
+						<!--</div>-->
+					<!--</div>-->
+				<!--</div>-->
+				<!--<div class="col-md-3 col-xs-6 agile_team_grid">-->
+					<!--<div class="view w3-agile-view">-->
+						<!--<img src="images/t4.jpg" alt=" " class="img-responsive" />-->
+						<!--<div class="w3lmask">-->
+							<!--<h5>Daniel Nyari</h5>-->
+							<!--<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit.</p>-->
+							<!--<div class="agileits_social_icons">-->
+								<!--<ul class="agileits_social_list">-->
+									<!--<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>-->
+									<!--<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>-->
+									<!--<li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li> -->
+								<!--</ul>-->
+							<!--</div> -->
+						<!--</div>-->
+					<!--</div>-->
+				<!--</div>-->
+				<!--<div class="clearfix"> </div>-->
+			<!--</div>-->
+		<!--</div>-->
+	<!--</div>-->
+	<!-- //team -->
 	<!-- services -->
 	<div id="services" class="services jarallax">
 		<div class="container"> 
@@ -326,6 +400,109 @@
 			<script src="js/lightbox-plus-jquery.min.js"> </script>
 		</div>
 	</div>
+	<!-- //gallery -->
+	<!-- news -->
+	<!--<div id="news" class="services news">-->
+		<!--<div class="container">   -->
+			<!--<h3 class="agileits-title">新闻</h3>-->
+			<!--<div class="news-agileinfo">-->
+				<!--<div class="col-sm-4 news-w3lgrids">-->
+					<!--<div class="news-gridtext">-->
+						<!--<div class="news-w3img">-->
+							<!--<a href="#myModal" data-toggle="modal"><img src="images/img3.jpg" class="img-responsive zoom-img" alt=""/></a>-->
+						<!--</div>-->
+						<!--<div class="news-w3imgtext">-->
+							<!--<h5 class="w3-agilep">Jan 12, 2017</h5>-->
+							<!--<h4><a href="#myModal" data-toggle="modal">Fringilla</a></h4> -->
+							<!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer gravida mauris non mi gravida, at sollicitudin. </p> -->
+						<!--</div>-->
+					<!--</div>-->
+				<!--</div>-->
+				<!--<div class="col-sm-4 news-w3lgrids">-->
+					<!--<div class="news-gridtext">-->
+						<!--<div class="news-w3img">-->
+							<!--<a href="#myModal" data-toggle="modal"><img src="images/g4.jpg" class="img-responsive zoom-img" alt=""/></a>-->
+						<!--</div>-->
+						<!--<div class="news-w3imgtext">-->
+							<!--<h5 class="w3-agilep">March 4, 2017</h5>-->
+							<!--<h4><a href="#myModal" data-toggle="modal">Cfringilla</a></h4> -->
+							<!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer gravida mauris non mi gravida, at sollicitudin. </p> -->
+						<!--</div>-->
+					<!--</div>-->
+				<!--</div>-->
+				<!--<div class="col-sm-4 news-w3lgrids">-->
+					<!--<div class="news-gridtext">-->
+						<!--<div class="news-w3img">-->
+							<!--<a href="#myModal" data-toggle="modal"><img src="images/g2.jpg" class="img-responsive zoom-img" alt=""/></a>-->
+						<!--</div>-->
+						<!--<div class="news-w3imgtext">-->
+							<!--<h5 class="w3-agilep">April 21, 2017</h5>-->
+							<!--<h4><a href="#myModal" data-toggle="modal">Sectetur</a></h4> -->
+							<!--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer gravida mauris non mi gravida, at sollicitudin. </p> -->
+						<!--</div>-->
+					<!--</div>-->
+				<!--</div>-->
+				<!--<div class="clearfix"> </div>-->
+			<!--</div>-->
+		<!--</div>-->
+	<!--</div>-->
+	<!-- //news --> 
+	<!-- map -->
+	<!--<div class="map agileits">-->
+		<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.948805392833!2d-73.99619098458929!3d40.71914347933105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a27e2f24131%3A0x64ffc98d24069f02!2sCANADA!5e0!3m2!1sen!2sin!4v1479793484055"></iframe>-->
+	<!--</div>-->
+	<!-- //map --> 
+	<!-- contact -->
+	<!--<div id="contact" class="contact">-->
+		<!--<div class="container"> -->
+			<!--<h3 class="agileits-title">联系我们</h3>-->
+			<!--<div class="contact-row agileits-w3layouts">  -->
+				<!--<div class="col-md-6 col-sm-6 contact-w3lsleft">-->
+					<!--<div class="contact-grid agileits">-->
+						<!--<h4>DROP US A LINE </h4>-->
+						<!--<form action="#" method="post"> -->
+							<!--<input type="text" name="Name" placeholder="Name" required="">-->
+							<!--<input type="email" name="Email" placeholder="Email" required=""> -->
+							<!--<input type="text" name="Phone Number" placeholder="Phone Number" required="">-->
+							<!--<textarea name="Message" placeholder="Message..." required=""></textarea>-->
+							<!--<input type="submit" value="Submit" >-->
+						<!--</form> -->
+					<!--</div>-->
+				<!--</div>-->
+				<!--<div class="col-md-6 col-sm-6 contact-w3lsright map-left"> -->
+					<!--<h4> 123 San Sebastian | Canada, NY 10002, New York</h4>-->
+					<!--<h3>Contact Us To Follow Trend <br>1800-1111-222 </h3>-->
+					<!--<span class="glyphicon glyphicon-envelope"> </span>-->
+					<!--<div class="agile_social_icons">-->
+						<!--<ul class="agileits_social_list">-->
+							<!--<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>-->
+							<!--<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>-->
+							<!--<li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>-->
+							<!--<li><a href="#" class="w3_agile_vimeo"><i class="fa fa-vimeo" aria-hidden="true"></i></a></li>-->
+						<!--</ul>-->
+					<!--</div> -->
+				<!--</div>-->
+				<!--<div class="clearfix"> </div>-->
+			<!--</div>	-->
+		<!--</div>	-->
+	<!--</div>-->
+	<!-- //contact --> 
+	<!-- subscribe -->
+	<!--<div class="subscribe team jarallax">-->
+		<!--<div class="container">-->
+			<!--<div class="w3-agile-heading agile-subscribe-heading">-->
+				<!--<h3 class="agileits-title w3title1">订阅</h3>-->
+				<!--<p>订阅我们的电子邮件通讯接收更新</p>-->
+			<!--</div>-->
+			<!--<div class="subscribe-grid">-->
+				<!--<form action="#" method="post">-->
+					<!--<input type="email" placeholder="输入您的电子邮件" name="email" required="">-->
+					<!--<button class="btn1"><i class="fa fa-paper-plane-o" aria-hidden="true"></i></button>-->
+				<!--</form>-->
+			<!--</div>-->
+		<!--</div>-->
+	<!--</div>-->
+	<!-- //subscribe -->
 	<!-- footer -->
 	<div class="footer">
 		<div class="container">
@@ -342,7 +519,23 @@
 			</div> 
 		</div>
 	</div>
-	<!-- //footer -->
+	<!-- //footer -->	
+	<!-- modal -->
+	<div class="modal about-modal w3-agileits fade" id="myModal" tabindex="-1" role="dialog">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				</div>
+				<div class="modal-body">
+					<img src="images/img2.jpg" alt="">
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum iaculis enim, non convallis felis mattis at. Donec fringilla lacus eu pretium rutrum. Cras aliquet congue ullamcorper. Etiam mattis eros eu ullamcorper volutpat. Proin ut dui a urna efficitur varius. uisque molestie cursus mi et congue consectetur adipiscing elit cras rutrum iaculis enim, Lorem ipsum dolor sit amet, non convallis felis mattis at. Maecenas sodales tortor ac ligula ultrices dictum et quis urna. Etiam pulvinar metus neque, eget porttitor massa vulputate.
+					<br>Etiam mattis eros eu ullamcorper volutpat. Proin ut dui a urna efficitur varius. uisque molestie cursus mi et congue consectetur adipiscing elit cras rutrum iaculis enim, Lorem ipsum dolor sit amet, non convallis felis mattis at.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- //modal -->    
 	<!-- FlexSlider --> 
 	<script defer src="js/jquery.flexslider.js"></script>
 	<script type="text/javascript">
